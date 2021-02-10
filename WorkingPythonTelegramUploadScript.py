@@ -1,7 +1,6 @@
 import os
 import subprocess
 import time
-import shutil
 
 #Number_Of_Files=0
 PATH = '/home/pi/Public/'
